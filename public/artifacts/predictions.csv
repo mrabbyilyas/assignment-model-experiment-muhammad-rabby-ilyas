@@ -1,0 +1,43 @@
+review_id,product_name,review_text,actual,classic,classic_probability,llm,llm_latency_ms
+2,Case HP,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,0.7404039777143661,positif,2565.064
+3,Rice Cooker,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif,0.7713963940575033,positif,2251.54
+5,Headset Bluetooth,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif,0.7713963940575033,positif,1946.078
+16,Sepatu Sneakers,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,1688.829
+17,Headset Bluetooth,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,2019.75
+18,Jaket Hoodie,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,0.7404039777143661,positif,1893.501
+24,Kaos Polos,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,positif,0.5167255196246121,negatif,2315.003
+26,Botol Minum,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,2217.666
+31,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,positif,0.5252117034528025,negatif,2025.326
+36,Rice Cooker,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,positif,0.5167255196246121,negatif,3155.83
+37,Lampu LED,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,1871.182
+43,Kemeja Flanel,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,positif,0.5252117034528025,negatif,2418.104
+46,Lampu LED,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,2166.458
+50,Charger Cepat,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,positif,0.5167255196246121,negatif,1694.357
+58,Rice Cooker,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,1921.961
+63,Kaos Polos,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,2159.742
+66,Blender Mini,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,0.5046821457078832,negatif,2320.717
+71,Botol Minum,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,0.5046821457078832,negatif,3254.106
+77,Tas Ransel,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,1979.213
+78,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,positif,0.5252117034528025,negatif,2237.017
+82,Botol Minum,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,positif,0.5252117034528025,negatif,1837.941
+85,Kaos Polos,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,positif,0.5167255196246121,negatif,1978.498
+86,Lampu LED,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,1872.617
+89,Case HP,"Harga worth it dengan kualitas yang didapat, sangat puas.",positif,positif,0.636363393996893,positif,1811.405
+99,Tas Ransel,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,2576.642
+106,Botol Minum,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif,0.7713963940575033,positif,1720.767
+113,Charger Cepat,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,2363.902
+115,Kemeja Flanel,Komplain tidak ditanggapi sama sekali oleh penjual.,negatif,negatif,0.5046821457078832,negatif,1648.978
+117,Kursi Lipat,"Harga worth it dengan kualitas yang didapat, sangat puas.",positif,positif,0.636363393996893,positif,1952.152
+124,Botol Minum,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,0.7404039777143661,positif,2461.517
+127,Sandal Jepit,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,positif,0.5252117034528025,negatif,1741.618
+131,Tas Ransel,"Terima kasih seller, barangnya awet dan sesuai deskripsi.",positif,positif,0.7713963940575033,positif,1404.959
+135,Tas Ransel,"Puas banget belanja disini, proses cepat dan barang aman.",positif,positif,0.7404039777143661,positif,1982.616
+139,Case HP,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,positif,0.5167255196246121,negatif,2240.624
+156,Case HP,"Ukuran dan warna berbeda dari pesanan, sangat kecewa.",negatif,positif,0.5252117034528025,negatif,2353.185
+163,Jaket Hoodie,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,2662.224
+164,Kemeja Flanel,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,1854.099
+173,Tas Ransel,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,positif,0.5167255196246121,negatif,7788.976
+184,Headset Bluetooth,Respon penjual lambat dan terkesan tidak peduli komplain.,negatif,positif,0.5167255196246121,negatif,1735.439
+189,Jaket Hoodie,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,2656.35
+191,Kemeja Flanel,"Pelayanan ramah dan responsif, barang sampai lebih cepat dari estimasi.",positif,positif,0.5912251636992436,positif,2564.674
+197,Charger Cepat,"Pengiriman lambat sekali, sudah dua minggu belum sampai.",negatif,negatif,0.5959708333858452,negatif,3261.078

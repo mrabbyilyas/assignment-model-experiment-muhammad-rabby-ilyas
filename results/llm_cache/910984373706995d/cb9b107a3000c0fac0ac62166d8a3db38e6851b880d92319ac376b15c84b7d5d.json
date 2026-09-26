@@ -1,0 +1,23 @@
+{
+  "prediction": "positif",
+  "raw_response": "{\"sentiment\":\"positif\"}",
+  "latency_ms": 1921.961,
+  "input_tokens": 179,
+  "output_tokens": 6,
+  "reasoning_tokens": 0,
+  "cost_usd": 0.00015675,
+  "attempts": 1,
+  "response_id": "gen-1790436795-9Ia4C1Jvo5xopmmFGKXS",
+  "actual_model": "google/gemini-3.8-flash",
+  "recorded_at": "2026-09-26T15:33:17.693245+00:00",
+  "review_id": 58,
+  "cache_key": "cb9b107a3000c0fac0ac62166d8a3db38e6851b880d92319ac376b15c84b7d5d",
+  "config": {
+    "provider": "openrouter",
+    "model": "google/gemini-3.8-flash",
+    "temperature": 0,
+    "max_output_tokens": 2048,
+    "reasoning_effort": "low",
+    "prompt_sha256": "1253952893f9cfd22cbc3e2aa86340edf5837ac2b4da88bc6a7461aa3128e2b6"
+  }
+}

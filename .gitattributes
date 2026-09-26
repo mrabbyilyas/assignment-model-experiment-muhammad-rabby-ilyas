@@ -1,0 +1,3 @@
+# Preserve the official CSV byte-for-byte, including its original CRLF endings.
+data/customer_reviews_sentiment.csv -text whitespace=cr-at-eol
+public/artifacts/customer_reviews_sentiment.csv -text whitespace=cr-at-eol

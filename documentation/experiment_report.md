@@ -4,7 +4,7 @@
 
 Eksperimen sentiment analysis ulasan e-commerce: **TF-IDF + Logistic Regression vs Gemini**.
 
-![Ringkasan eksperimen](documentation/model_comparison_summary.png)
+![Ringkasan eksperimen](model_comparison_summary.png)
 
 > Status: model klasik selesai; Gemini **complete (42/42 prediksi)**. Semua angka berasal dari eksekusi, bukan data demo. Dashboard Next.js adalah pelengkap; seluruh output penilaian ada pada project Python ini.
 
